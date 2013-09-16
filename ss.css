@@ -1,0 +1,920 @@
+/* khaled*/
+.Ad{
+	border : 1px solid #CCCCCC;
+	left : 525px;
+	position : absolute;
+	top : 160px;
+}
+.Ad2{
+	border : 1px solid #CCCCCC;
+	left : 508px;
+	position : absolute;
+	top : 255px;
+}
+.AdLink:hover{
+	border-bottom-color : #3975BD;
+	color : #3975BD !important;
+	font-weight : normal;
+	text-decoration : none !important;
+}
+.AdLink{
+	background-color : transparent !important;
+	border-bottom : 1px dashed blue;
+	color : blue !important;
+	font-weight : normal;
+	left : 550px;
+	position : absolute;
+	text-decoration : none !important;
+	top : 325px;
+	width : 165px;
+}
+.articleImg{
+	margin-left : 70px
+}
+.awards{
+	border : 1px dotted #3171BD;
+	width : 350px;
+}
+.awardsCell{
+	border-bottom : 1px dotted #3171BD;
+	height : 50px;
+	vertical-align : middle;
+}
+.Band1{
+	background-color : #E8F0F8;
+	border-bottom : 1px dotted #3975BD;
+	border-top : 1px dotted #3975BD;
+	color : blue;
+	text-indent : 2px;
+	width : 100%;
+}
+.Band2{
+	background-color : #F0FFF6;
+	border-bottom : 1px dotted #00AE44;
+	border-top : 1px dotted #00AE44;
+	color : green;
+	text-indent : 2px;
+	width : 100%;
+}
+.Band3{
+	background-color : #FFFDF2;
+	border-bottom : 1px dotted #A18400;
+	border-top : 1px dotted #A18400;
+	color : #A18400;
+	text-indent : 2px;
+	width : 25%;
+}
+.Band4{
+	background-color : #FFFDF2;
+	border-bottom : 1px dotted #A18400;
+	border-top : 1px dotted #A18400;
+	color : #A18400;
+	text-indent : 2px;
+	width : 60%;
+}
+.Band5{
+	background-color : #FEEEEE;
+	border-bottom : 1px dotted #D30000;
+	border-top : 1px dotted #D30000;
+	color : #D30000;
+	text-indent : 2px;
+	width : auto;
+}
+.Band6{
+	background-color : #FFFDF2;
+	border : 1px dotted #A18400;
+	padding-left : 10px;
+	padding-right : 10px;
+	text-indent : 2px;
+	width : 100%;
+}
+.Band7{
+	background-color : #F0FFF6;
+	border-bottom : 1px dotted #00AE44;
+	border-top : 1px dotted #00AE44;
+	padding-left : 10px;
+	padding-right : 10px;
+	text-indent : 2px;
+	width : 25%;
+}
+.Band8{
+	background-color : #F0FFF6;
+	border : 1px dotted #00AE44;
+	padding-left : 10px;
+	padding-right : 10px;
+	text-indent : 2px;
+	width : 100%;
+}
+.BandHeader{
+	background-color : #F0F8FF;
+	color : #289CFF;
+	text-align : center;
+}
+.blackText{
+	color : black
+}
+.block{
+	background-color : #F6F6F6;
+	border-color : #68A0E7;
+	border-style : solid dotted dotted dotted;
+	border-width : 3px 1px 1px 1px;
+	padding : 6px;
+}
+.Blue{
+	color : blue;
+	text-decoration : underline;
+}
+.Blue2{
+	color : blue;
+	text-indent : 15px;
+}
+.Blue3{
+	border-bottom-style : dotted;
+	border-bottom-width : 1px;
+	color : blue;
+	text-decoration : none;
+}
+.Blue4, H1, subIndex{
+	font-family : "Trajan Pro",Tahoma, Georgia, Verdana, Arial, sans-serif
+}
+.Blue4{
+	border-bottom : 1px dotted #3975BD;
+	color : #3975BD;
+	text-decoration : none;
+}
+.BlueEx{
+	color : blue;
+	text-decoration : none;
+}
+.bold{
+	font-weight : bold
+}
+.BoldEx{
+	color : black;
+	font-size : 10px;
+	font-weight : bold;
+}
+.BoldQuotation{
+	border-color : #FDC223;
+	border-style : solid;
+	border-width : 0px 0px 0px 3px;
+	padding : 0px 12px 0px 16px;
+}
+.bottomCell{
+	background-color:#7C0A0A;
+	color : #E8C800;
+	font-size : 9px;
+	padding : 12px;
+	text-align : center;
+	height: 20px;
+}
+.Box{
+	background-color : #F0F8FF;
+	border : 1px solid #DFE7ED;
+	margin : 25px;
+}
+.Box2{
+	background-color : #F0F8FF;
+	border : 1px dotted #C2C9CE;
+	font-weight : bold;
+	text-indent : 5px;
+}
+.Box3, .Box6{
+	background-color : #F0F8FF;
+	color : #4BA9ED;
+	margin : 10px;
+	width : 90px;
+}
+.Box4{
+	background-color : #F0F8FF;
+	color : #4BA9ED;
+	font-size : 10px;
+}
+.Box5{
+	color : black;
+	font-size : 10px;
+}
+.Box6{
+	border-left : 1px solid #4BA9ED;
+	text-decoration : none;
+	text-indent : 5px;
+}
+.Bracket{
+	font-weight : bold
+}
+.Browsers{
+	text-indent : 25px
+}
+.BrowserSupport{
+	background-color : #F0FFF6;
+	border-left : 2px solid #00AE44;
+	padding : 3px;
+}
+.codeBox, .codeBox3, .Box2, .ItemButton, .TextBox, h1.Band2, h1.Band1, h1.Band3, h1.Band5, .css, .cssCenter, .ListBox, .ListBox2, .ComboBox, TextArea, button, .AdLink, .AdLink:hover, .Tutorial, .Tutorial:hover, .Fine, .Fine2, .Fine:hover, .Fine4, .Fine4:hover, .Blue4, .HeaderDot, .headBox, .InactiveLink{
+	font-size : 11px;
+}
+.codeBox{
+	background-color : #FAF7F3;
+	border-left : 2px solid #FA9A15;
+	color : #A52A2A;
+	margin-left : 25px;
+	text-indent : 10px;
+}
+.codeBox2{
+	background-color : #FAF7F3;
+	border-left : 2px solid #FA9A15;
+	margin-left : 25px;
+	text-indent : 10px;
+}
+.ComboBox{
+	background-color : #E8F0F8;
+	border : 1px solid #CCCCCC;
+	color : #3975BD;
+	margin : 5px;
+}
+.Content,.Content1,.Content2,.Content5,.Content6,.faqReponse{
+	padding : 3px
+}
+
+.Content1{
+	background-color : #E8F0F8;
+	border-left : 2px solid #3975BD;
+	text-indent : 2px;
+}
+.Content2{
+	background-color : #F0FFF6;
+	border-left : 2px solid #00AE44;
+	text-indent : 2px;
+}
+.Content5{
+	background-color : #FEEEEE;
+	border-left : 2px solid #D30000;
+	text-indent : 2px;
+}
+.Content6{
+	background-color : #F0FFF6;
+	border : 1px solid #00AE44;
+	text-indent : 2px;
+	width : 250px;
+}
+.css{
+	background : transparent;
+	color : #800000;
+	font-family : "Courier New", Courier, mono, Tahoma;
+}
+.cssCenter{
+	background : transparent;
+	color : #800000;
+	font-family : "Courier New", Courier, mono, Tahoma;
+	margin-left : 25px;
+}
+.cssValue{
+	color : #D2691E
+}
+.Dot{
+	border-style : dotted;
+	border-width : 1px;
+	width : 400px;
+}
+.Dot2{
+	border-style : dotted;
+	border-width : 1px;
+}
+.Dot3{
+	border-style : dotted;
+	border-width : 1px;
+	width : 75px;
+}
+.Dot4{
+	border-style : dotted;
+	border-width : 1px;
+}
+.Dot5{
+	border-style : dotted;
+	border-width : 1px;
+	width : 100%;
+}
+.faqQuestion{
+	color : #3270BF;
+	font-weight : bold;
+}
+.faqReponse{
+	background-color : #FFFBF7;
+	border-left : 2px solid #FF6600;
+	text-indent : 2px;
+	width : 100%;
+}
+.Fine, .Fine2{
+	border-bottom : 1px double blue;
+	text-decoration : none;
+	text-indent : 15px;
+}
+.Fine:hover{
+	color : blue;
+	font-weight : normal;
+	text-indent : 15px;
+}
+.Fine2{
+	color : black !important;
+	text-decoration : none !important;
+}
+.Fine3{
+	color : red;
+	text-decoration : none !important;
+}
+.Fine4, .Fine4:hover, .Fine, .Fine2, .Tutorial, .Tutorial:hover{
+	color : blue;
+	font-weight : normal;
+}
+.Fine4, .Fine4:hover, .Fine:hover{
+	border-bottom : 1px dotted blue;
+	text-decoration : none;
+}
+.FineHeader{
+	border-bottom-style : dotted;
+	border-bottom-width : 1px;
+	color : #1E90FF;
+}
+.GenCSS{
+	height : 50px;
+	width : 400px;
+}
+.gotoTop{
+	text-indent : 375px
+}
+.Grayed{
+	color : #CCCCCC
+}
+.headBox{
+	background-color : #FAF7F3;
+	border-bottom : 1px dotted #FA9A15;
+	color : #A52A2A;
+	text-decoration : none;
+	width : auto;
+}
+.Header{
+	color : #EDB100;
+	font-size : 15px;
+}
+.HeaderDot{
+	border-bottom : 1px dotted #CCCCCC;
+	color : #A9A9A9;
+	text-align : center;
+	vertical-align : middle;
+}
+.HeaderDot2{
+	color : #A9A9A9;
+	font-weight : bold;
+	text-align : center;
+}
+.HeaderDot3{
+	color : #A9A9A9;
+	font-weight : bold;
+	text-align : center;
+	vertical-align : middle;
+}
+.HeadImg{
+	vertical-align : middle
+}
+.highlight{
+	border : 1px solid #4D9DFF;
+	height : 75px;
+	left : 550px;
+	position : absolute;
+	top : 226px;
+	width : 210px;
+}
+.History{
+	color : #FDC223;
+	font-size : 16px;
+	font-weight : bold;
+	margin : 6px 0px 12px;
+	padding : 0px;
+}
+.html{
+	background : transparent;
+	color : #000080;
+}
+.html2{
+	background : transparent;
+	color : #000080;
+	text-indent : 25px;
+}
+.Indent{
+	text-indent : 15px
+}
+.Indent2{
+	border : 1px dotted #0000CD
+}
+.ItemButton{
+	background-color : white;
+	border : 1px solid #68A0E7;
+	color : #68A0E7;
+	margin : 5px;
+}
+.Jaune{
+	color : #FDC223
+}
+.LastAwardsCell{
+	height : 50px;
+	vertical-align : middle;
+}
+.Left{
+	color : #FFFFFF;
+	text-align: center;
+	width : 100%;
+}
+
+.Level0{
+	text-indent : 15px
+}
+.Level1{
+	text-indent : 40px
+}
+.Level2{
+	text-indent : 65px
+}
+
+.Main, .leftNavCell, a.leftNavLink, a.leftNavLink:hover, a.leftNavLinkSelected, td, th, .bottomCell, a, a:hover, .History, h2, H2.bold, .headBox,a{
+	font-family : Verdana, Arial, Helvetica, sans-serif
+}
+.Main{
+	height: 100%;
+	color: white;
+	font-size: 11px;
+	width : 700px;
+}
+.MainFrame{
+	height : 100%;
+	margin-left : 50px;
+	margin-top : 50px;
+	margin-right:50px;
+	margin-bottom:30px;
+	width : 80%;
+}
+
+
+.ShadowBottom{
+	background-image : url(images/shadowbottom.gif);
+	background-repeat : repeat;
+	height : 6px;
+	width : 100%;
+}
+.ShadowBottomRight{
+	height : 6px;
+	width : 6px;
+}
+.ShadowRight{
+	background-image : url(images/shadowRight.gif);
+	background-repeat : repeat;
+	height : 100%;
+	width : 6px;
+}
+.solidQuotation{
+	border-color : #FDC223;
+	border-style : solid;
+	border-width : 0px 0px 0px 3px;
+	color : #8C8C8C;
+	font-family : Georgia, "Times New Roman", Times, serif;
+	padding : 0px 12px 0px 16px;
+}
+.special{
+	color : #CC0000;
+	font-weight : bold;
+}
+.subComment{
+	color : #C0C0C0;
+	font-size : 10px;
+	margin-left : 60px;
+}
+.subComment2{
+	color : #818589;
+	font-size : 10px;
+	margin-left : 35px;
+}
+.subIndex{
+	color : black;
+	font-size : 11px;
+	margin-left : 5px;
+}
+.syntaxHighlight{
+	background-color : #F0F8FF;
+	border : 1px solid #DFE7ED;
+	margin-top : 5px;
+	width : 400px;
+}
+.TableDot{
+	border-style : dotted;
+	border-width : 1px;
+	width : 450px;
+}
+.TableDot2{
+	border-color : #9CD2FF;
+	border-style : dotted;
+	border-width : 1px;
+	width : 200px;
+}
+.TableDot3{
+	border : 1px dotted #9CD2FF;
+	height : 125px;
+	width : 400px;
+}
+.TableDotRight{
+	background-color : #FDE6B9;
+	border : 1px dotted #D2B48C;
+	color : #9B8667;
+	left : 525px;
+	position : absolute;
+	top : 200px;
+	width : 200px;
+}
+.TextBox{
+	border : 1px solid #DFE7ED
+}
+
+
+.textCenter{
+	text-align : center
+}
+.topCell{
+	border-bottom : 1px solid #000000;
+	height : 59px;
+	width : 100%;
+	vertical-align:middle;
+}
+.transparentBox{
+	background-color : white;
+	border : 1px dotted #D9E1E7;
+	border-left : 3px solid #D9E1E7;
+	margin-left : 25px;
+	text-indent : 10px;
+	width : 500px;
+}
+.Tutorial, .Tutorial:hover{
+	margin : 6px 0px 12px;
+	padding : 0px;
+}
+.Tutorial:hover{
+	text-decoration : none
+}
+.Tutorial{
+	text-decoration : underline
+}
+.warning{
+	background : transparent;
+	color : #FF4500;
+	text-decoration : none;
+}
+.white{
+	color : #FFFFFF
+}
+.WhiteEx:hover{
+	border-bottom : 1px solid white;
+	color : white;
+	vertical-align : middle;
+}
+.WhiteEx{
+	color : white;
+	font-size : 10px;
+	font-weight : bold;
+	text-decoration : none !important;
+	vertical-align : sub;
+}
+a.BlackLink {
+	color: #000000;
+    text-decoration: none;
+
+}
+a.BlackLink:hover {
+	text-decoration: none;
+         color: #FFFFFF;
+
+}
+a:hover {
+	text-decoration: none;
+
+}
+a{
+         color : white;
+	font-size : 11px;
+	font-weight : bold;
+	text-decoration : none !important;
+	vertical-align : middle;
+}
+BODY, a, a:hover,.redOrder, .redOrder:link, .redOrder:hover, .redOrder2, .redOrder2:link, .redOrder2:hover, .Box2, .Box4, .Box5, .ItemButton, .TextBox, .ListBox, .ListBox2, .ComboBox, TextArea, .Tutorial, .Tutorial:hover, .Fine, .Fine2, .Fine:hover, .Fine4, .Fine4:hover, .shortheader, .InactiveLink{
+	font-family : Tahoma, Arial, "MS Sans Serif";
+}
+
+button{
+	background-color : white;
+	border-color : #68A0E7;
+	border-style : solid;
+	border-width : 1px;
+	color : #68A0E7;
+	margin : 5px;
+}
+h1.Band2, h1.Band1, h1.Band3, h1.Band5{
+	width : 175px !important
+}
+H1{
+	color : #FFFFFF;
+	font-size : 19px;
+	font-weight : bold;
+	margin : 6px 0px 12px;
+	padding : 0px;
+         filter:DropShadow(color=#FF0000, offx=3, offy=3);
+}
+H2.bold{
+	color : black;
+	font-size : 10px;
+	font-weight : bold;
+	text-indent : 5px;
+}
+h2{
+	color : #3270BF;
+	font-size : 14px;
+	font-weight : bold;
+	margin : 6px 0px;
+	padding : 0px;
+}
+hr{
+	background-color : #FDC223;
+	border : 0px;
+	color : #FDC223;
+	height : 1px;
+	margin : 0px;
+	padding : 0px;
+}
+Input, textarea{
+    color: #000000;
+    background-color : #FFFFFF;
+	border:1px solid #FFD400;
+	font-family : Tahoma, Arial, "MS Sans Serif";
+	font-size : 11px;
+}
+Input:active {
+	background-color : #D5FFCB;
+}
+
+li{
+	list-style-image : url(images/li_bg.gif);
+	list-style-position : inside;
+	list-style-type : none;
+}
+p.c2, div.c1{
+	text-align : center
+}
+p{
+	margin : 0px
+}
+.FullHeight{
+	height: 100%;
+}
+td{
+
+	font-size : 11px;
+	text-align:left;
+	vertical-align : top;
+}
+TextArea{
+	border : 1px solid #FFD400;
+
+}
+th{
+	font-size : 11px;
+	text-align:left;
+}
+ul{
+	margin-left : 15px;
+	margin-top : 10px;
+}
+.Tanne {
+background-color : #D5FFCB;
+	border-right : 1px solid #000000;
+	color : #FFFFFF;
+	height : 100%;
+	width : 150;
+	background-image:url(bg2.png);
+	background-repeat:no-repeat;
+
+	background-position:bottom;
+}
+.solidBand1 {
+	background-color : #F0FFF6;
+	border-bottom : 1px solid #00AE44;
+	border-top : 1px solid #00AE44;
+	color : green;
+	text-indent : 2px;
+	width : 100%;
+
+}
+.Einrucken {
+	padding-left:15px;
+}
+.Question {
+border-bottom:1px solid #000000;
+font-weight:bold;
+	padding-left:20px;
+	background-color:#D5FFCB;
+	width:30%;
+padding-top:10px;
+padding-bottom:5px;
+}
+.Answer {
+border-bottom:1px solid #000000;
+	padding-left:15px;
+	background-color:#D5FFCB;
+padding-top:10px;
+padding-bottom:5px;
+}
+.Question2 {
+border-left:1px dotted #00AE44;
+
+border-right:1px dotted #00AE44;
+border-bottom:1px solid #000000;
+font-weight:bold;
+	padding-left:0px;
+
+padding-top:10px;
+padding-bottom:5px;
+
+}
+.Answer2 {
+border-left:1px dotted #00AE44;
+
+border-right:1px dotted #00AE44;
+border-bottom:1px solid #000000;
+
+	padding-left:0px;
+padding-top:5px;
+padding-bottom:5px;
+}
+
+.BestellungNeu {
+	font-weight:bold;
+	border:1px solid #000000;
+}
+.BestellungAlt {
+	border:1px solid #000000;
+}
+
+.Content {
+	background-color: #000000;
+    font-family : Tahoma, Arial, "MS Sans Serif";
+	height:100%;
+    width:100%;
+	color:#FFFFFF;
+	text-indent : 2px;
+}
+.shortheader {
+
+       background-color: #AE0F0B;
+       color: #000000;
+
+       width:100%;
+       font-weight:bold;
+       font-size:13px;
+       	text-indent : 4px;
+
+
+
+
+}
+.shortTable {
+	width: 200px;
+         margin-right:10px;
+         border-right:1px solid #FFFFFF;
+          border-bottom:1px solid #FFFFFF;
+         border:1px solid #FFFFFF;
+
+}
+.shortcontent {
+       background-color: #141414;
+       color: #FFFFFF;
+       border-top:1px solid #FFFFFF;
+       width:100%;
+       padding:4px;
+       font-size:11px;
+       	text-indent : 2px;
+
+}
+.shortTitle {
+	font-weight: bold;
+         font-size: 12px;
+         padding-bottom:4px;
+
+}
+.spacer {
+	height:10px;
+         border:1px solid #FFFFFF;
+         }
+
+.galleryImage{
+	text-align: center;
+         text-indent:0px;
+         vertical-align: middle;
+
+}
+.galleryItem{
+	padding:0px;
+	text-indent: 3px;
+         border:1px solid white;
+         text-align: center;
+         empty-cells:hide;
+}
+
+.galleryTitle {
+	border-bottom:1px solid white;
+}
+
+body, textarea {
+
+  color:#000000;
+  font-size : 11px;
+  margin : 0px;
+  scrollbar-base-color:#8C8CC6;
+  scrollbar-3dlight-color:#000000;
+  scrollbar-arrow-color:#FFFFFF;
+  scrollbar-darkshadow-color:#000000;
+  scrollbar-face-color:#1F1F1F;
+  scrollbar-highlight-color:#FFFFFF;
+  scrollbar-shadow-color:#FFFFFF;
+  scrollbar-track-color:#000000;
+}
+img {
+	border:0;
+}
+
+a {
+	padding:0px;
+	margin:0px;
+	border:0;
+}
+
+.InactiveLink {
+	color:red;
+         font-weight:bold;
+}
+.imageLink {
+
+}
+.imageLink:hover {
+	border: 1px solid #6A6A6A;
+
+}
+
+.subheader {
+	font-size:15px;
+	font-weight:bold;
+	color:#D8D8D8;
+	margin-bottom:8px;
+	margin-top:14px;
+}
+
+.title {
+	color:white;
+	margin-bottom:3px;
+	border-bottom:1px solid white;
+	font-size:12px;
+	font-weight:bold;
+	padding-top:20px;
+	padding-bottom:3px;
+}
+
+.padding {
+	padding-left:4px;
+	padding-right:4px;
+}
+
+.member {
+	width:100%;
+	height:200px;
+}
+
+.special{
+	color : #CC0000;
+	font-weight : bold;
+}
+
+.bold{
+	font-weight : bold
+}
+
+TextArea{
+	border : 1px solid #008000;
+	border-color : #008000;
+	border-style : solid;
+	border-width : 1px;
+	height :70px;
+	width : 300px;
+}
+
+Input{
+	background-color : #FFFFFF;
+	border : 1px solid #008000;
+	font-family : Tahoma, Arial, "MS Sans Serif";
+	font-size : 11px;
+}
+Input:active {
+	background-color : #D5FFCB;
+}

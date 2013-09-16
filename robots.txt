@@ -1,0 +1,6 @@
+# robots.txt zu http://www.mein-name.de/
+
+User-agent: *
+Disallow: /bilder/
+Disallow: /error/
+Disallow: /media/
